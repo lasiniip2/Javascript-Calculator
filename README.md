@@ -18,4 +18,5 @@ This project mimics a real-world calculator with basic arithmetic operations and
 ## Preview
 ![Calculator Screenshot](./ss.png)
 
+
 ### Done in 2023
